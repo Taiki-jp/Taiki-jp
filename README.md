@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://
-titan-taiki-jps-projects.vercel.app/api/top-langs/?username=Taiki-jp&layout=compact&theme=dracula
+[![Top Langs](https://titan-taiki-jps-projects.vercel.app/api/top-langs/?username=Taiki-jp&layout=compact&theme=dracula
 )](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taiki-jp&show_icons=true&theme=dracula
