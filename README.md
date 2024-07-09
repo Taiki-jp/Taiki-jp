@@ -1,8 +1,8 @@
 ### Hi there 👋
-[![Top Langs](https://titan-taiki-jps-projects.vercel.app/api/top-langs/?username=Taiki-jp&layout=compact&theme=dracula
+[![Top Langs](https://github-readme-stats-xi-bice-25.vercel.app/api/top-langs/?username=Taiki-jp&layout=compact&theme=dracula
 )](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://titan-taiki-jps-projects.vercel.app/api?username=Taiki-jp&show_icons=true&theme=dracula
+[![Anurag's GitHub stats](https://github-readme-stats-xi-bice-25.vercel.app/api?username=Taiki-jp&show_icons=true&theme=dracula
 )](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Taiki-jp/Taiki-jp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
