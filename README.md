@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-xi-bice-25.vercel.app/api?username=Taiki-jp&show_icons=true&theme=dark&include_orgs=true" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-xi-bice-25.vercel.app/api/top-langs/?username=Taiki-jp&theme=dark&include_orgs=true&hide=jupyter%20notebook&layout=compact" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-xi-bice-25.vercel.app/api?username=Taiki-jp&show_icons=true&theme=dracula&include_orgs=true" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-xi-bice-25.vercel.app/api/top-langs/?username=Taiki-jp&theme=dracula&include_orgs=true&hide=jupyter%20notebook&layout=compact" />
 </p>
 
 <!--
