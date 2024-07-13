@@ -2,7 +2,7 @@
 
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats-xi-bice-25.vercel.app/api?username=Taiki-jp&show_icons=true&theme=onedark&include_orgs=true" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-xi-bice-25.vercel.app/api/top-langs/?username=Taiki-jp&theme=onedark&include_orgs=true" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-xi-bice-25.vercel.app/api/top-langs/?username=Taiki-jp&theme=onedark&include_orgs=true&hide=jupyter%20notebook" />
 </p>
 
 <!--
